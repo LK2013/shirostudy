@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.shirostudy.AuthorizationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in com.shirostudy.AuthorizationTest
+authorize(com.shirostudy.AuthorizationTest)  Time elapsed: 0.001 s  <<< ERROR!
+org.apache.shiro.authz.UnauthorizedException: Subject does not have role [admin1]
+	at com.shirostudy.AuthorizationTest.authorize(AuthorizationTest.java:33)
+

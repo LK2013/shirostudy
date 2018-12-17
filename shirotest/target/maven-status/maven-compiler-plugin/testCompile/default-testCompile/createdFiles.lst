@@ -1,0 +1,6 @@
+com\shirostudy\IniRealmTest.class
+com\shirostudy\CustomRealmTest.class
+com\shirostudy\JdbcRealmTest.class
+com\shirostudy\AuthenticationTest.class
+com\shirostudy\AuthorizationTest.class
+com\shirostudy\AppTest.class
